@@ -13,8 +13,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.csgo_vault.R;
-import com.example.csgo_vault.Update;
+import com.example.vaultapplication.R;
+import com.example.vaultapplication.Update;
 
 import java.io.Serializable;
 import java.util.ArrayList;
@@ -65,7 +65,7 @@ public class ItemAdapter extends RecyclerView.Adapter<ItemAdapter.OrderViewHolde
     @NonNull
     @Override
     public OrderViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
-        View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.item_adapter, parent, false);
+        View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.activity_item_adapter, parent, false);
         return new OrderViewHolder(view);
     }
 
