@@ -5,7 +5,7 @@
 # Used:
 - Android Studio Dolphin // 2021.3.1
 - Git
--Jenkins
+- Jenkins
 
 # Reference:
 - From what was taught by the teachers at ccit ftui
