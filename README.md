@@ -8,6 +8,6 @@
 - Jenkins
 
 # Reference:
-- From what was taught by the teachers at ccit ftui
+- From what was taught by the teachers at CCIT FTUI
 - From my own searches on the internet
 - From the capabilities of my own creativity
