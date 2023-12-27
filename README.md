@@ -1,5 +1,5 @@
 # Backgrounds:
-- For learning about SCM concepts
+- Learn about SCM concepts
 - For the fulfillment of project tasks while studying at CCIT FTUI
 
 # Used:
